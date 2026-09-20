@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
+unredacted/
+modules/screen-vision/goldens/*.png

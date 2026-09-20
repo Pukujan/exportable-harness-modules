@@ -1,0 +1,225 @@
+/* === kilo-claude-md-start === */
+[data-component="markdown"] {
+  font-size: 16px;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+[data-component="markdown"] > * {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+[data-component="markdown"] > * + * {
+  margin-top: 0.65em !important;
+}
+
+[data-component="markdown"] h1,
+[data-component="markdown"] h2,
+[data-component="markdown"] h3,
+[data-component="markdown"] h4,
+[data-component="markdown"] h5,
+[data-component="markdown"] h6 {
+  color: var(--text-strong);
+  font-weight: 650;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+  margin-top: 0.85em !important;
+  margin-bottom: 0.25em !important;
+}
+
+[data-component="markdown"] > h1:first-child,
+[data-component="markdown"] > h2:first-child,
+[data-component="markdown"] > h3:first-child {
+  margin-top: 0 !important;
+}
+
+[data-component="markdown"] h1 + p,
+[data-component="markdown"] h2 + p,
+[data-component="markdown"] h3 + p,
+[data-component="markdown"] h1 + ul,
+[data-component="markdown"] h2 + ul,
+[data-component="markdown"] h3 + ul,
+[data-component="markdown"] h1 + ol,
+[data-component="markdown"] h2 + ol,
+[data-component="markdown"] h3 + ol {
+  margin-top: 0.3em !important;
+}
+
+[data-component="markdown"] h1 { font-size: 22px; }
+[data-component="markdown"] h2 { font-size: 18px; }
+[data-component="markdown"] h3 { font-size: 16px; }
+[data-component="markdown"] h4,
+[data-component="markdown"] h5,
+[data-component="markdown"] h6 { font-size: 16px; }
+
+[data-component="markdown"] p {
+  margin-top: 0 !important;
+  margin-bottom: 0.5em !important;
+  line-height: 1.5;
+}
+
+[data-component="markdown"] p + p {
+  margin-top: 0.5em !important;
+}
+
+[data-component="markdown"] strong,
+[data-component="markdown"] b {
+  color: var(--text-strong);
+  font-weight: 650;
+}
+
+[data-component="markdown"] :not(pre) > code {
+  font-size: 0.92em;
+  padding: 0.12em 0.35em;
+  border-radius: 0.3rem;
+  border: 0.5px solid color-mix(in srgb, var(--text-strong) 18%, transparent);
+}
+
+[data-component="markdown"] pre,
+[data-component="markdown"] .shiki,
+[data-component="markdown"] pre code {
+  font-size: 13.5px;
+  line-height: 1.625;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+[data-component="markdown"] pre,
+[data-component="markdown"] .shiki {
+  margin: 0.85em 0 1.1em;
+  padding: 0.9rem 1rem;
+  border-radius: 0.5rem;
+  border: 0.5px solid var(--border-weak-base, color-mix(in srgb, var(--text-strong) 12%, transparent));
+  overflow-x: auto;
+}
+
+[data-component="markdown"] ul,
+[data-component="markdown"] ol {
+  margin-top: 0.25em !important;
+  margin-bottom: 0.5em !important;
+  padding-inline-start: 2rem;
+}
+
+[data-component="markdown"] li {
+  margin-top: 0;
+  margin-bottom: 0.2em !important;
+  line-height: 1.5;
+}
+
+[data-component="markdown"] li > p:first-child {
+  display: block;
+  margin: 0;
+}
+
+[data-component="markdown"] li > p + p {
+  display: block;
+  margin-top: 0.45em;
+}
+
+[data-component="markdown"] table {
+  font-size: 0.9em;
+  line-height: 1.55;
+  margin: 0.7em 0 1.1em;
+  border-collapse: collapse;
+}
+
+[data-component="markdown"] th {
+  font-weight: 600;
+}
+
+[data-component="markdown"] th,
+[data-component="markdown"] td {
+  padding: 0.45em 0.85em 0.45em 0;
+  vertical-align: top;
+}
+
+[data-component="markdown"] blockquote {
+  margin: 0.6em 0;
+  padding-inline-start: 0.75rem;
+  line-height: 1.5;
+}
+
+[data-component="markdown"] hr {
+  margin: 1.5em 0;
+}
+
+[data-component="assistant-message"] {
+  padding-bottom: 0.75rem;
+}
+
+[data-component="user-message"] {
+  max-width: 85%;
+}
+
+.vscode-session-turn {
+  gap: 2px !important;
+  padding: 0 4px 4px !important;
+}
+
+.vscode-session-turn[data-row="assistant"] {
+  padding-bottom: 2px !important;
+}
+
+.vscode-session-turn-assistant {
+  gap: 2px !important;
+}
+
+[data-slot="session-turn-assistant-content"] {
+  gap: 2px !important;
+}
+
+[data-component="assistant-message"] {
+  gap: 2px !important;
+}
+
+[data-component="collapsible"].tool-collapsible {
+  --tool-content-gap: 0px;
+  gap: 0 !important;
+}
+
+[data-component="collapsible"] [data-slot="collapsible-trigger"] {
+  height: 20px !important;
+  min-height: 20px !important;
+}
+
+[data-component="tool-trigger"],
+[data-component="assistant-message"] {
+  content-visibility: visible;
+}
+
+[data-slot="basic-tool-tool-title"],
+[data-slot="basic-tool-tool-subtitle"],
+[data-slot="basic-tool-tool-arg"],
+[data-slot="message-part-title-text"],
+[data-slot="message-part-title-filename"] {
+  line-height: 1.2 !important;
+}
+
+.message-list [data-component="reasoning-part"]:not([data-streaming]),
+.vscode-session-turn [data-component="reasoning-part"]:not([data-streaming]) {
+  display: none !important;
+}
+
+.message-list [data-slot="reasoning-content"],
+.vscode-session-turn [data-slot="reasoning-content"] {
+  display: none !important;
+}
+
+[data-component="reasoning-part"][data-streaming] {
+  display: flex !important;
+  position: sticky !important;
+  bottom: 0 !important;
+  z-index: 40 !important;
+  background: var(--vscode-sideBar-background, var(--background-stronger)) !important;
+  max-height: 3.25rem !important;
+  overflow: hidden !important;
+}
+
+.chat-input .session-dock,
+.chat-input .working-indicator {
+  position: relative;
+  z-index: 5;
+}
+/* === kilo-claude-md-end === */

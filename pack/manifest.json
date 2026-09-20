@@ -1,0 +1,31 @@
+{
+  "contract_version": "dkg.pack.v1",
+  "pack_id": "pack_70d838252b9cbbdca9f5b07e068103d3",
+  "name": "Exportable harness UX modules (Kilo colorful-income session)",
+  "kind": "project",
+  "description": "Portable writing, prose-type, CSS hot-reload, and screen-vision modules distilled from one Kilo UX session. Write target is this pack only. IDX/Ollama and ChatGPT observe-before-code are out of v1.",
+  "schema_version": "dkg.event.v1",
+  "ontology_requirements": [
+    {
+      "ontology_id": "dkg.core",
+      "version_constraint": ">=1.0.0 <2.0.0"
+    }
+  ],
+  "dependencies": [],
+  "read_mounts": [
+    "pack_70d838252b9cbbdca9f5b07e068103d3"
+  ],
+  "write_targets": [
+    "pack_70d838252b9cbbdca9f5b07e068103d3"
+  ],
+  "event_roots": [
+    "events/"
+  ],
+  "artifact_manifests": [
+    "artifacts/manifest.jsonl"
+  ],
+  "placement_hint": "external",
+  "projection_namespace": "exportable-harness-modules-kilo-ux-v1",
+  "source_policy_ref": "pack/source-policy.md",
+  "created_at": "2026-09-20T03:47:27Z"
+}

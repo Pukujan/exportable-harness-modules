@@ -1,0 +1,50 @@
+{
+  "schema_version": "fossil.reviewed-evidence-ingest-receipt.v1",
+  "receipt_id": "ingest_receipt_09b15d84b980a1aa2e86a867",
+  "authority": "non_authoritative_receipt",
+  "pack_id": "pack_70d838252b9cbbdca9f5b07e068103d3",
+  "review_ref": "review:exportable-harness-modules:colorful-income-v1",
+  "correlation_id": "colorful-income-kilo-ux-v1",
+  "source": {
+    "source_kind": "conversation",
+    "preserved": true,
+    "artifact_id": "art_38a42b0ad8177e754c22455689ee8d22",
+    "snapshot_id": "snap_fc9e74567c675739cf57eb5e"
+  },
+  "validation": {
+    "pack": "passed",
+    "source": "passed",
+    "events": "passed",
+    "provenance": "passed",
+    "evidence": "passed",
+    "ontology": "not_applicable"
+  },
+  "proposal_event_ids": [
+    "evt_7d9e1121b46f658589542f636a8c2376",
+    "evt_eb5ef2b8b4b7d902c86f66b95704d244",
+    "evt_48dd0d4524f9c0152a9779b54448337e",
+    "evt_0d7922f534413f25699201d70cda7f05",
+    "evt_5eeacc9b9582611d5143750de9d55c07",
+    "evt_e0aea21fc66cadba42c5a10c34a297d4",
+    "evt_3d0faeaeb0fde91d78687b189498bc69",
+    "evt_aad8c3747da8b736f69f4434541482a7",
+    "evt_1b96955aa00fb427fc03f1f9fcac5068",
+    "evt_78aa14e969422f96c20b3d56804e035b"
+  ],
+  "proposal_count": 10,
+  "accepted_count": 0,
+  "requires_explicit_promotion": false,
+  "rejection_reason": null,
+  "status": "proposed",
+  "conversation_event_ids": [
+    "evt_885d92e1d3acacc263c53f992f6a8be0"
+  ],
+  "supersession_event_ids": [
+    "evt_e60ecfdd52f8207a5bd58594f87c66d2",
+    "evt_58f34bf7209585bbb100b1fbc883a167",
+    "evt_e987b8c32ec7b40928f23d551271f40c",
+    "evt_577723fe9521ec1d13f2f02e5e8bd928",
+    "evt_57c0bc8a259d5387ac303009af0b538e"
+  ],
+  "artifact_id_hint": "art_38a42b0ad8177e754c22455689ee8d22"
+}
