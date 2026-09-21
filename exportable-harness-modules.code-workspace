@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "name": "exportable-harness-modules",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.venv": true
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/.venv": true,
+      "**/__pycache__": true
+    }
+  }
+}
