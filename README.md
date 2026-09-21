@@ -1,8 +1,12 @@
 # Exportable harness modules
 
-This repository is a **portable knowledge pack**. Another agent should be able to implement chat readability on Kilo, OpenCode, Pi, or a future harness from the SPECs and red tests alone.
+Start at `PRESERVE.md`. That is the pack.
 
-It is **not** a zip of Kilo’s `webview.js`. Kilo files under `adapters/kilo/` are a reference implementation.
+The owner’s signal (2026-09-21) is the gold: VS Code Kilo was unusable on every model, and after five UX behaviors landed it was usable. Those behaviors are what this repo keeps. A future Kilo config or an OpenCode TUI should copy them. Do not strip the live VS Code install to test a before.
+
+The five behaviors: turn routing, visible chat type, the output prompt that is actually sent, Claude-like paragraph shape, and screenshot-before-claim plus CSS hot reload. Routing and writing transfer to a TUI. CSS and hot reload do not. `kilo run` has no stylesheet.
+
+This repository is also a portable knowledge pack. Another agent should be able to implement the text half from the SPECs. It is **not** a zip of Kilo’s `webview.js`. Kilo files under `adapters/kilo/` are a reference implementation, including `adapters/kilo/known-good/` copied from the working overlay.
 
 FOSSIL can answer what we tried, what we reversed, and which files are the current Kilo reference — **cited to ingested session bytes**, not a reconstructed story.
 
@@ -19,6 +23,7 @@ pack/manifest.json          # pack_id, write_targets, fossil schemas
 artifacts/                  # redacted session export, hashes, reconstructed audit
 events/                     # durable claim + supersession snapshot
 modules/
+  turn-routing/             # chat vs research vs code vs long run
   writing-contract/         # SPEC + AGENTS fragment + good/bad transcripts
   prose-type/               # tokens + properties + Kilo CSS adapter
   css-hot-reload/           # recipe + 12s gate + Kilo poller/watcher
