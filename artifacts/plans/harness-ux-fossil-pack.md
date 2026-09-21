@@ -1,3 +1,7 @@
+# HISTORICAL — do not execute
+
+This plan is done as far as this repo is concerned. The GitHub repo is not empty. Do not ingest fossil-core from here. Do not search other folders for the task. Current instructions: `AGENTS.md`, then `HANDOFF.md`, then `PRESERVE.md`.
+
 # Fossil this Kilo UX session + exportable harness modules
 
 Separate from `.kilo/plans/chatgpt-harness-export.md` (ChatGPT/Claude work-mode habits). This plan is **this colorful-income Kilo thread**: embeddings, chat CSS, writing voice, vision, hot-reload — turned into durable FOSSIL evidence and a pack other agents can rebuild from.

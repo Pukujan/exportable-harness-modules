@@ -33,8 +33,12 @@ checkers/                   # portable property tests (no Kilo UI)
 
 ## How to implement an adapter
 
+Not the current job. Checkers already pass. A new agent should read `AGENTS.md` and `HANDOFF.md` and wait.
+
+When the owner later asks for a new harness:
+
 1. Read the module `SPEC.md`. Those properties are the contract.
-2. Run `python checkers/run_all.py` and watch it fail (red).
+2. Run `python checkers/run_all.py`. It should pass on this repo today.
 3. Implement your harness adapter until the portable tests pass.
 4. Do **not** copy Kilo selectors unless you are maintaining the Kilo adapter.
 5. Keep writing rules and type tokens separate. Claude feels better because of **writing**, then **type**, not 2,000 CSS variables.
