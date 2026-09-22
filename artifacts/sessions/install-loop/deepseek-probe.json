@@ -1,0 +1,8 @@
+{
+  "installed": true,
+  "where": "dist/deepseek-harness",
+  "cli": "node dist/deepseek-harness/node_modules/@deepseek-ai/dsh/lib/bin.js",
+  "ran_fifty": false,
+  "blocker": "Windows refused the profile junction (EISDIR / Incorrect function). DEEPSEEK_API_KEY is unset. No live config was written.",
+  "live_configs_written": false
+}

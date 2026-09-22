@@ -8,7 +8,7 @@ The five behaviors: turn routing, visible chat type, the output prompt that is a
 
 This repository is also a portable knowledge pack. Another agent should be able to implement the text half from the SPECs. It is **not** a zip of Kilo’s `webview.js`. Kilo files under `adapters/kilo/` are a reference implementation, including `adapters/kilo/known-good/` copied from the working overlay.
 
-FOSSIL can answer what we tried, what we reversed, and which files are the current Kilo reference — **cited to ingested session bytes**, not a reconstructed story.
+Two tests are different. Read `pack/evidence.md` before citing history. A **copy test** (known-good files, or `adapters/tui/AGENTS.md` on a throwaway config, plus `python checkers/run_all.py`) can be run today. A **path test** cannot. The 2026-09-20 export is a redacted session plus a proposed FOSSIL receipt. It is not W3C PROV, not an ordered diff of the live config, and not the 2026-09-21 transcript.
 
 ## Not this pack
 
@@ -20,8 +20,9 @@ FOSSIL can answer what we tried, what we reversed, and which files are the curre
 
 ```text
 pack/manifest.json          # pack_id, write_targets, fossil schemas
+pack/evidence.md            # copy test vs path test; what may be cited
 artifacts/                  # redacted session export, hashes, reconstructed audit
-events/                     # durable claim + supersession snapshot
+events/                     # proposed claim + supersession snapshot, not accepted
 modules/
   turn-routing/             # chat vs research vs code vs long run
   writing-contract/         # SPEC + AGENTS fragment + good/bad transcripts
@@ -29,11 +30,18 @@ modules/
   css-hot-reload/           # recipe + 12s gate + Kilo poller/watcher
   screen-vision/            # SPEC + skill + screenshot.ps1 + tests
 checkers/                   # portable property tests (no Kilo UI)
+adapters/tui/AGENTS.md      # routing + writing paste for a throwaway TUI
+adapters/opencode/          # OpenCode copy notes; do not edit the live config
+adapters/grok/              # Grok Build CLI copy notes; pass --rules
 ```
+
+## Say install
+
+Point the agent at this repo and say install. If that agent loads this file or `AGENTS.md`, it runs `python install.py install`. That stages a bundle under `dist/install` and refuses the live Kilo, Grok, and OpenCode configs. The receipt in that bundle is the one line that points their harness at the staged files. A file that stays in this repo and is not loaded does nothing.
 
 ## How to implement an adapter
 
-Not the current job. Checkers already pass. A new agent should read `AGENTS.md` and `HANDOFF.md` and wait.
+Building a new harness from scratch is not the current job. Checkers already pass. The text-half copy test is `adapters/tui/AGENTS.md` on a throwaway directory, scored by `adapters/opencode/README.md` or `adapters/grok/README.md`. Do not point that test at the live Kilo config.
 
 When the owner later asks for a new harness:
 
@@ -53,6 +61,10 @@ No Kilo window is required. Live screenshot capture is optional and is not part 
 
 ## Evidence rules
 
-- `artifacts/sessions/` is **verbatim-redacted** session export (secrets stripped).
+The contract is `pack/evidence.md`. Short form:
+
+- `artifacts/sessions/` is a **verbatim-redacted** export from 2026-09-20. Secrets stripped. Cite those bytes for what was said that day.
 - `artifacts/reconstructed/` is labeled reconstruction. Do not promote it to verbatim evidence.
-- Claims in `events/` start as `proposed`. Supersession of killed ideas is recorded. Agents do not self-promote to current-best without the property tests.
+- `artifacts/kilo-storage/session_diff/` adds three plan files. It is not the live config trail.
+- Claims in `events/` are `proposed`. Accepted count is zero. The receipt is non-authoritative. This is not W3C PROV.
+- Do not cite the 2026-09-20 export as the 2026-09-21 “this works” session.

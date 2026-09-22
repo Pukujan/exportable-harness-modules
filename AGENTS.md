@@ -8,11 +8,19 @@ Kilo loads this file every turn. Read `HANDOFF.md`, then `PRESERVE.md`. Do not s
 
 The five UX behaviors are already in this repo. The owner said the live VS Code Kilo is working extremely well. That install is the gold after. Preservation landed in commits `abeb2bb` and `0439c69`.
 
+`pack/evidence.md` is the honesty spec. A copy test is not a path test. Do not relabel the 2026-09-20 receipt as W3C PROV or as the 2026-09-21 gold session. Do not backfill missing config diffs from memory.
+
 ## What to do
 
 Answer the owner. Do not invent a next project.
 
 Do not start a long task without an explicit go. A question about where files are, or why another agent looked lost, is a question. Answer it.
+
+## Install
+
+If the user says install, that is the go. Run `python install.py install` from this repo root. Do not pass the live-overwrite flag. Do not edit `~/.config/kilo`, `~/.grok`, `~/.config/opencode`, or `~/.pi/agent`.
+
+Then tell them the one line from the staged receipt for their product. The bundle is `dist/install`. Saying install stages that bundle. It does not rewrite a live config. Their harness loads it only when they point at that directory, or pass the profile the receipt names.
 
 ## Do not
 

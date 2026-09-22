@@ -8,7 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from checkers import hot_reload, routing, tokens, vision, writing  # noqa: E402
+from checkers import evidence, hot_reload, install_guard, routing, tokens, vision, writing  # noqa: E402
 
 
 def main() -> int:
@@ -19,6 +19,8 @@ def main() -> int:
         ("tokens", tokens),
         ("hot-reload", hot_reload),
         ("vision", vision),
+        ("evidence", evidence),
+        ("install-guard", install_guard),
     ]:
         print(f"=== {name} ===")
         failed = mod.run()

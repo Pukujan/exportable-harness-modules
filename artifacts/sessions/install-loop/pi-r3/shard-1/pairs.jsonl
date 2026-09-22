@@ -1,0 +1,5 @@
+{"id": "c11", "kind": "chat", "arm": "off", "product": "pi", "text": "", "tools_started": true, "pass": false, "fails": ["mini", "bold-not-in-first", "tool-start"], "returncode": 0, "error": ""}
+{"id": "c11", "kind": "chat", "arm": "on", "product": "pi", "text": "", "tools_started": false, "pass": false, "fails": ["mini", "bold-not-in-first"], "returncode": 0, "error": ""}
+{"id": "c12", "kind": "chat", "arm": "off", "product": "pi", "text": "", "tools_started": false, "pass": false, "fails": ["mini", "bold-not-in-first"], "returncode": 0, "error": ""}
+{"id": "c12", "kind": "chat", "arm": "on", "product": "pi", "text": "", "tools_started": false, "pass": false, "fails": ["mini", "bold-not-in-first"], "returncode": 0, "error": ""}
+{"id": "c13", "kind": "chat", "arm": "off", "product": "pi", "text": "", "tools_started": false, "pass": false, "fails": ["mini", "bold-not-in-first"], "returncode": 0, "error": ""}

@@ -1,0 +1,2 @@
+{"id": "c21", "kind": "chat", "arm": "off", "product": "pi", "text": "", "tools_started": false, "pass": false, "fails": ["mini", "bold-not-in-first"], "returncode": 124, "error": "timeout"}
+{"id": "c21", "kind": "chat", "arm": "on", "product": "pi", "text": "", "tools_started": false, "pass": false, "fails": ["mini", "bold-not-in-first"], "returncode": 0, "error": ""}

@@ -1,0 +1,11 @@
+{
+  "product": "opencode",
+  "model": "yolo-auto/qwen3.8-flash",
+  "n": 50,
+  "rows": 100,
+  "on_pass": 25,
+  "off_pass": 13,
+  "on_wins": 13,
+  "off_wins": 1,
+  "note": "The global OpenCode instruction file may still have loaded on both arms. It was not edited. Live configs were not written."
+}

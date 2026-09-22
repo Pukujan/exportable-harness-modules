@@ -1,0 +1,9 @@
+{
+  "before": "control prompt: Answer the user.",
+  "after": "pack prompt loaded",
+  "live_configs_written": false,
+  "grok": {"n": 50, "before_pass": 1, "after_pass": 30, "pack_wins": 29, "control_wins": 0, "finished": true},
+  "opencode": {"n": 50, "before_pass": 13, "after_pass": 25, "pack_wins": 13, "control_wins": 1, "finished": true, "note": "Global OpenCode file may still have loaded."},
+  "pi": {"n_scored_pairs": 26, "before_pass": 3, "after_pass": 20, "finished": false, "key": "yolo-auto via QWEN_API_KEY"},
+  "deepseek": {"finished": false, "key": "yolo-auto via QWEN_API_KEY", "note": "Headless boot works on NTFS. The fifty is running. The first scored replies did not yet pass the shape rules."}
+}

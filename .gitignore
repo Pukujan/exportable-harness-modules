@@ -7,4 +7,6 @@ venv/
 .DS_Store
 Thumbs.db
 unredacted/
+node_modules/
+dist/deepseek-harness/node_modules/
 modules/screen-vision/goldens/*.png

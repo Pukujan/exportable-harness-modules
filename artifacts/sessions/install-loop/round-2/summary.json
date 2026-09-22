@@ -1,0 +1,32 @@
+{
+  "round": 2,
+  "product": "grok",
+  "model": "grok-4.7",
+  "n": 50,
+  "rows": 100,
+  "chat": 25,
+  "code": 25,
+  "on_pass": 30,
+  "off_pass": 1,
+  "on_wins": 29,
+  "off_wins": 0,
+  "ties": 21,
+  "on_fails": {
+    "tool-start": 18,
+    "mini": 11,
+    "throat": 9,
+    "bold-not-in-first": 9
+  },
+  "off_fails": {
+    "tool-start": 42,
+    "throat": 39,
+    "bold-not-in-first": 25,
+    "mini": 23,
+    "summary-label": 1
+  },
+  "nonzero_returncode": 9,
+  "nonzero_reason": "max turns reached",
+  "profile_parse_errors": 0,
+  "live_configs_written": false,
+  "note": "Round 1 scored zero because the staged profiles lacked description. This round loaded the profiles and scored replies. The pack arm beat the control. No overlay was applied."
+}

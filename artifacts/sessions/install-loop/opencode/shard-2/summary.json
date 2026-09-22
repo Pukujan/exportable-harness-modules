@@ -1,0 +1,8 @@
+{
+  "n": 10,
+  "on_pass": 2,
+  "off_pass": 1,
+  "on_wins": 2,
+  "off_wins": 1,
+  "ties": 7
+}

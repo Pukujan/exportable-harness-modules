@@ -1,0 +1,22 @@
+{
+  "providers": {
+    "yolo-auto": {
+      "api": "openai-completions",
+      "apiKey": "env",
+      "baseUrl": "https://yolo-auto.com/v1",
+      "models": [
+        {
+          "compat": {
+            "supportsUsageInStreaming": true
+          },
+          "contextWindow": 131072,
+          "id": "qwen3.8-flash",
+          "input": ["text"],
+          "maxTokens": 8192,
+          "name": "Qwen3.8 Flash (YOLO Auto)",
+          "reasoning": true
+        }
+      ]
+    }
+  }
+}
