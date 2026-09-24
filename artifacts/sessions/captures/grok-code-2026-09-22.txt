@@ -1,0 +1,13 @@
+# Grok code capture
+
+Ask: The paragraph gaps are too large. Say what you would change, in a short reply. Do not edit files.
+
+Model: grok-4.7 (`grok-4.7-build` in the stream). `--output-format streaming-json`. Profile `adapters/grok/chat-profile.md`. Throwaway cwd. No tool call. `end_turn`. Session `01a0c6c1-565b-79f1-ad75-579bac32691b`.
+
+Reply:
+
+**I would set the space between paragraphs to a single line break.**
+
+That pulls a short reply into one tight block and keeps each idea readable.
+
+Class against the frozen code rules: first sentence states the spacing change. Short. No summary heading. No tools. Pass.

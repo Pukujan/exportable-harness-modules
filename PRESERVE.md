@@ -32,6 +32,12 @@ Do not strip the live VS Code install to recreate a before. The live window is t
 
 **CLI `kilo run`.** Text only. It can confirm routing and writing. It cannot confirm CSS.
 
+## What this pack can prove
+
+**A copy, yes. A replay, no.** Matching the known-good files and passing the checkers shows the end state can be reapplied. It does not show which edit came first. The session export is 2026-09-20. The owner’s “this works” signal is 2026-09-21. The event log is a proposed FOSSIL receipt, not W3C PROV. Details: `pack/evidence.md`.
+
+A terminal copy uses `adapters/tui/AGENTS.md`. OpenCode notes are in `adapters/opencode/`. Grok Build CLI notes are in `adapters/grok/`. Neither may overwrite the live Kilo config. A CLI reply cannot confirm CSS.
+
 ## What this pack is not
 
 It is not a claim that these sentences were counted out of ChatGPT transcripts. Turn routing was owner-taught after a jump, then written down because it worked. The type rules were fit to how Claude chat *looks* (about 16px prose, heading steps, wrapping code), not a saved Claude message. The owner’s “this is usable” is the result. A later vision compare may sit beside that signal. It does not replace it.

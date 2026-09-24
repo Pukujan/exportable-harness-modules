@@ -1,0 +1,35 @@
+{
+  "hits": {
+    "Write like a readable briefing": {
+      "when": "2026-09-21 18:01",
+      "session": "ses_f3ae35107ffexUkty2xCP6GoXo",
+      "ms": 1790013713169
+    },
+    "0.875rem": {
+      "when": "2026-09-21 17:59",
+      "session": "ses_f3ae35107ffexUkty2xCP6GoXo",
+      "ms": 1790013555219
+    },
+    "font-size: 16px": {
+      "when": "2026-09-21 16:59",
+      "session": "ses_f3b18cbd2ffeedamwwq1937KZI",
+      "ms": 1790009968931
+    },
+    "16px": {
+      "when": "2026-09-21 17:56",
+      "session": "ses_f3ae35107ffexUkty2xCP6GoXo",
+      "ms": 1790013393776
+    },
+    "answer first": {
+      "when": "2026-09-21 18:02",
+      "session": "ses_f3ae35107ffexUkty2xCP6GoXo",
+      "ms": 1790013725369
+    },
+    "kilo-claude-markdown": {
+      "when": "2026-09-21 17:56",
+      "session": "ses_f3ae35107ffexUkty2xCP6GoXo",
+      "ms": 1790013393530
+    }
+  },
+  "n": 1125
+}

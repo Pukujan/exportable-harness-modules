@@ -1,4 +1,4 @@
 {
   "$schema": "https://app.kilo.ai/config.json",
-  "instructions": ["HANDOFF.md", "PRESERVE.md"]
+  "instructions": ["HANDOFF.md", "PRESERVE.md", "pack/evidence.md"]
 }

@@ -1,0 +1,9 @@
+# Pi chat capture, second try
+
+Model: yolo-auto/qwen3.8-flash. Same ask. Prompt now required a bold takeaway in the first paragraph and said to call the habit a summary label.
+
+Reply:
+
+No—it isn't a desired product feature; it's a summarization habit the model defaults to, and the current system prompt specifically instructs against it. The directive you're reading right now ("Do not use a summary heading… If the question names that habit, call it a summary label instead of printing the label") exists precisely because this TL;DR/summary-label tendency kept surfacing and needed an explicit correction. In short: the habit is a training artifact, the rule is the product's answer to it.
+
+Score: answer first. No blank line. No bold. The label still appears. Regression against the previous capture.

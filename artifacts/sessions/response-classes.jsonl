@@ -1,0 +1,924 @@
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "explain", "explain", "explain"], "bold_in_first": false, "session": "ses_f4342410effev426tiKI9M4YUg", "ms": 1789872953747, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773516792, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773524770, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773542675, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773553167, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "explain"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773589037, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773654334, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "list", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773812518, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773902871, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789773940680, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789774084465, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789774152303, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789774249735, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868194032, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "list", "explain"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868207320, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868370684, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868417993, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "summary", "heading", "summary", "list", "list", "heading", "heading", "explain", "leak", "echo", "heading", "summary", "heading", "explain", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868445636, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868563577, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868637987, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "list", "table", "heading", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868669593, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868929253, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "summary", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789868987529, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869178424, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869261811, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "table", "heading", "explain", "explain", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869356879, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869410666, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "list", "list", "list", "heading", "table", "takeaway", "heading", "list", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869433482, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869638772, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869664798, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "list", "table", "explain", "heading", "table", "explain", "heading", "explain", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869742467, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869868880, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "list", "heading", "explain", "explain", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789869971616, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "fence", "heading", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870165675, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870233616, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "explain", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870275875, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870416418, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "explain", "list", "leak", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870454645, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870526805, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "explain", "leak", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870551982, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870603277, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "list", "heading", "table", "heading", "explain", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870730263, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "explain", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870826014, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870876866, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870909303, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870944027, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789870980363, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871056000, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871132145, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871235897, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "explain", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871293436, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871372547, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "takeaway", "takeaway", "explain", "heading", "list", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871432422, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871525229, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "table", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871578895, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789871924351, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872045418, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872079476, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872232658, "side": "before"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "list", "heading", "takeaway", "heading", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872368608, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872495017, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872560689, "side": "after"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "explain", "explain", "heading", "explain", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872609636, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872673747, "side": "after"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "explain", "takeaway", "heading", "table", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872738893, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872831827, "side": "after"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "table", "summary", "heading", "explain", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872868180, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872946816, "side": "after"}
+{"grain": "chunked", "open": "heading", "chunks": ["heading", "summary", "list", "heading", "takeaway", "summary"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789872960836, "side": "after"}
+{"grain": "mini", "open": "summary", "chunks": ["summary"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789873136351, "side": "after"}
+{"grain": "chunked", "open": "summary", "chunks": ["summary", "summary", "explain", "summary", "summary"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789873234708, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789873278451, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789873390795, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789873701165, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789874994456, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway", "summary", "echo", "explain"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789875307617, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789875552207, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "leak", "summary", "takeaway", "explain", "heading", "summary", "takeaway", "explain", "heading", "takeaway", "summary", "leak", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "heading", "echo", "explain", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789875643685, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789875858668, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789876457793, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y", "ms": 1789876587566, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789876116246, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789876130568, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789876374114, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789876400831, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789876663970, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "leak", "explain", "summary", "explain"], "bold_in_first": true, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789876828096, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789878942893, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "list", "explain"], "bold_in_first": true, "session": "ses_f4312f30cffe4T5qv2tqbQoU5U", "ms": 1789878966584, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790009889128, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790009900132, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790009925681, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790009938640, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "takeaway", "heading", "explain", "takeaway", "list", "explain", "leak", "summary", "leak"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790010335077, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790010959962, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790011039019, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "heading", "explain", "explain", "heading", "takeaway", "takeaway", "takeaway", "list", "list", "list", "summary", "takeaway", "heading", "takeaway", "explain", "takeaway", "takeaway", "takeaway", "list", "list", "table", "list", "list", "takeaway", "heading", "explain", "explain"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790011061669, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790011223183, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "explain"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790011299118, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain", "explain", "table", "explain", "explain", "list", "explain", "explain"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790011986296, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012306044, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012340699, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012427165, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain", "table", "explain", "takeaway"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012460949, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012513362, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "explain", "leak"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012527432, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012575504, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "leak", "leak"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012620395, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "leak"], "bold_in_first": true, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012703225, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012740338, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012752237, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "explain"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790012775378, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790013166047, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790013255407, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "table", "explain"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790013305084, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790013354511, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "leak", "explain", "table", "explain"], "bold_in_first": false, "session": "ses_f3b18cbd2ffeedamwwq1937KZI", "ms": 1790013361713, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f495edc8dffe1SiBSaEUVaQZf2", "ms": 1789770530139, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "list"], "bold_in_first": false, "session": "ses_f495edc8dffe1SiBSaEUVaQZf2", "ms": 1789770710288, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f495edc8dffe1SiBSaEUVaQZf2", "ms": 1789770772406, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "list", "leak"], "bold_in_first": false, "session": "ses_f495edc8dffe1SiBSaEUVaQZf2", "ms": 1789770932174, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771263012, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771270370, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771301624, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771319013, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771335435, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771345342, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771476394, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771636785, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771785358, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771882900, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771924615, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "list", "explain"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771957677, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789771975778, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772069860, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772130474, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772203755, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772257063, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772283092, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772325493, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772389076, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772418408, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772454255, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772769809, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4951e5a1ffeWN4RkztanpaPoM", "ms": 1789772834046, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773147332, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773159790, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "list", "explain"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773173571, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773209104, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "explain"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773226882, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773257019, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "leak"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773281005, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773301726, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773357025, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "leak"], "bold_in_first": false, "session": "ses_f493709d6ffe3SGlvx6d9D755h", "ms": 1789773381220, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773566084, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773585565, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773689421, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773710286, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "list", "explain"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773737108, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773817177, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "explain", "table", "takeaway", "heading", "explain", "list", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773855468, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain", "list", "explain"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789773988563, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774017210, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774025287, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "table", "heading", "takeaway", "list", "takeaway", "list", "takeaway", "list", "takeaway", "list", "takeaway", "takeaway", "table", "list", "takeaway", "list", "heading", "table", "heading", "list", "takeaway"], "bold_in_first": true, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774064892, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774158309, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "explain", "takeaway", "takeaway", "takeaway", "heading", "table", "takeaway", "explain", "heading", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774166678, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774244704, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "explain", "table", "explain", "heading", "list", "takeaway", "heading", "takeaway"], "bold_in_first": true, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774368919, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774389728, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "explain", "table", "takeaway", "explain", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "list", "list", "list", "list", "list", "list", "fence", "explain", "heading", "list", "takeaway"], "bold_in_first": true, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774430847, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774516735, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "leak", "table", "takeaway", "leak", "heading", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774623006, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f49308ec1ffejOTDzJ4twi12vP", "ms": 1789774746047, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789774866008, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789774871191, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789774889868, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789774913129, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789775085745, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789775165399, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789775394641, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789775557002, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789775593682, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain", "explain"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789788744629, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "table", "takeaway", "takeaway", "list", "explain"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789788790138, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789051991, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789070063, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789242232, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "list", "takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789268651, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789355130, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "explain", "takeaway", "list", "takeaway", "echo", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789473283, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789562925, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789585090, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "list", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789629122, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway", "takeaway", "explain", "takeaway", "explain", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789652222, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "echo", "explain", "fence", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789761232, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "leak", "fence", "takeaway", "takeaway", "table", "takeaway", "takeaway", "list", "explain"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789789984778, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790069871, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "table", "takeaway", "list", "takeaway", "takeaway", "list", "explain", "takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790183335, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "table", "explain", "takeaway", "list", "takeaway", "list", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790249270, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790326081, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "fence", "fence", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790404952, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790525812, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f491b0effffeg4KnqlwUV1GiCu", "ms": 1789790578737, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f482a4e7dffe2w1oDvjKuMnrm0", "ms": 1789790696017, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f482a4e7dffe2w1oDvjKuMnrm0", "ms": 1789790754530, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f482a4e7dffe2w1oDvjKuMnrm0", "ms": 1789790793329, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f482a4e7dffe2w1oDvjKuMnrm0", "ms": 1789790849878, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f482a4e7dffe2w1oDvjKuMnrm0", "ms": 1789790885849, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f482a4e7dffe2w1oDvjKuMnrm0", "ms": 1789790949866, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789790979500, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791135430, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791164301, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791194852, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791325096, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791437038, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791474317, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791496585, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791549440, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791577168, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "list", "explain"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791692390, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "explain", "explain"], "bold_in_first": true, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791738391, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791806806, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789791974478, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789792101408, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789792129966, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789792141778, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f48251d32ffeKp34ZShUwB56zY", "ms": 1789792352153, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792525634, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792530810, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792565676, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792588092, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792669644, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792726422, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792774548, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792841184, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792868627, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792880462, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792940973, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789792974343, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789793050336, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789794770514, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789794982938, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789795227964, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789796457607, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789796564947, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789796633967, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789796697616, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789796797628, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797012174, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797034693, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797088226, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797098071, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797124812, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797257170, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "leak", "explain", "leak"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797307410, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797358424, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797386757, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797412489, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797468004, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797483229, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797571787, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797630110, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797635418, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797670888, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797711393, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797815558, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "table", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797877376, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797922342, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "table", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789797943224, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798013463, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798082369, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798163156, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "table", "explain", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798222686, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798258064, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798338077, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "table", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798460835, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798503154, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "table", "explain", "list", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798564682, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798653653, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798699394, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798735693, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798784284, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798828114, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798896410, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789798959520, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799076412, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799124590, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799278988, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799395146, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799515336, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799599514, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799632078, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799737015, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799753351, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789799821309, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800037636, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800156096, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800237706, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800322973, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800395975, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800505522, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "table", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800567091, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800728155, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800777206, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800849041, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800878405, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800940921, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789800983601, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801031544, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801130894, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801216823, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801382760, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801430460, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801633609, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801851368, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789801942260, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789802091915, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789802183851, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789802241704, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f480df00bffeQriLAWyl7TGudy", "ms": 1789802264925, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802289182, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802294360, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802299781, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802473988, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802586760, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802655445, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802670981, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802863809, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789802990922, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803204868, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803248636, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803404408, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803477808, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "explain"], "bold_in_first": true, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803555687, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803580943, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "explain"], "bold_in_first": true, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803625576, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803656327, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803679358, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803740457, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803806374, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803878561, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803943273, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789803977763, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain"], "bold_in_first": true, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804035101, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804172341, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804239844, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain"], "bold_in_first": true, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804392090, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804425346, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804618513, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain", "explain"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804950122, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789804966911, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805000327, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805048115, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805071320, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805122632, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805166446, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805247056, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "table", "takeaway", "explain", "explain", "explain", "explain", "explain"], "bold_in_first": true, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805362306, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805427245, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789805800791, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806221085, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806277763, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806359101, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806433686, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806542918, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806680523, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806822375, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789806929998, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789807049321, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789807240258, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789807304223, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789807349283, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47787f1fffetVAGJs83ejSDDZ", "ms": 1789807430634, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789807508948, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789807537085, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789807757970, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789808231061, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789867121138, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789867170672, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f47293039ffeAnP4BwpyXYgSqK", "ms": 1789867186136, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867239612, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867244410, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867252315, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867274738, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867304818, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867397436, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867443677, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867473666, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "list", "takeaway", "list", "takeaway"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867498614, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867586779, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867619382, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867724851, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "table", "explain"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867824012, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain", "explain", "explain"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867886344, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867910094, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "fence", "takeaway", "explain", "explain"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789867949472, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain", "explain"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789868634667, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789868715939, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789868798171, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789868863306, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789868876661, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789868979729, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789869017317, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789869235295, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789869501638, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789869557951, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4399f265ffe2C0K8nfWIRVCdu", "ms": 1789869671013, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789869774749, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789869783639, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789869804685, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789870258929, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789870385286, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789870751925, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789870863790, "side": "before"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789870963905, "side": "before"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "heading", "summary", "list", "heading", "list", "heading", "explain", "list", "explain", "heading", "table", "explain"], "bold_in_first": false, "session": "ses_f4372d1eaffeig6PS1sBRpns15", "ms": 1789872129055, "side": "before"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879184893, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879192864, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879202419, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879211648, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879224643, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879252363, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879264000, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879282760, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "heading", "table", "explain", "heading", "takeaway", "explain", "list", "takeaway", "heading", "takeaway", "explain", "table", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "list", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879354299, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879535437, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "leak", "explain", "list", "takeaway", "leak", "explain"], "bold_in_first": true, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879540408, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879586467, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "leak", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879606184, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879667883, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879708612, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "explain", "leak"], "bold_in_first": true, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879724121, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879745811, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879770826, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "explain", "list", "explain"], "bold_in_first": true, "session": "ses_f42e3bc8cffeiOHw555Wtwntjc", "ms": 1789879807714, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789879871206, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "leak", "explain", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789879875473, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880034750, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880093679, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880175891, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880200149, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880340021, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880426410, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "takeaway", "takeaway", "takeaway", "list", "takeaway", "explain", "table", "explain", "takeaway", "explain", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789880652071, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789881835163, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789881845844, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789881875027, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789881963697, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882504264, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "list", "takeaway", "takeaway", "explain", "list", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882512646, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882614397, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882636321, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882777692, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882818282, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "list", "explain"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882861027, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "list", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "explain", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789882908240, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "heading", "explain", "list", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "explain", "takeaway", "table", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883041190, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "echo", "takeaway", "heading", "takeaway", "takeaway", "list", "takeaway", "heading", "list", "heading", "explain", "list", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883201131, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "list", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883252724, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "list", "takeaway", "explain", "list", "explain", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883307660, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883353908, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883376652, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883534837, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883604841, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883666680, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883703942, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883753316, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789883928765, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884062962, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884171166, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884292201, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884658400, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884757592, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884810672, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884866472, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "list", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884949329, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789884996924, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "list", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885069168, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885172364, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "list", "fence", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885287138, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885431876, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "fence", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885579908, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885612205, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885669574, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885704354, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885890004, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789885994898, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886009936, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886114052, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886129132, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886138622, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886250797, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886321545, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886366629, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789886433222, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789898627647, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789919793989, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789919827716, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920000766, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920135955, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920144556, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920265096, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920292731, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920298779, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920332137, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920345234, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920443021, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920555163, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920579026, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920587483, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920629940, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789920698027, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921127596, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921146322, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921237288, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921307875, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921353975, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921407001, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921412842, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921483026, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921495574, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789921540156, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789992411869, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789992466589, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789992530170, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789993139652, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789993795002, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789994398862, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789995036509, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789995646041, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789996239787, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789996896923, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789997500375, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789998129558, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789998708085, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789998777906, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789999330052, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789999482393, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1789999752538, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790000045724, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790000087556, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790000413481, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790000560468, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790000755072, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790000820736, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790001075229, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790001371875, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790001422356, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790001685789, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790001789402, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790001917652, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790002008472, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790002075773, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790009893319, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790009935794, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790009969020, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790010055374, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790010083370, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790010518259, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790011105112, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790011177061, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790011805068, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790012446347, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f42d8c383ffeAAjGSccZZFjygH", "ms": 1790013220147, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919410382, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919419318, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919448131, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919468178, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain", "list", "takeaway"], "bold_in_first": true, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919588431, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919672492, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919692686, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f407d8287ffemJAkE8x3HezOjg", "ms": 1789919740310, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921564315, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921568078, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921575156, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921583006, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921673084, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921798700, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789921953396, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "table", "takeaway", "takeaway", "takeaway", "takeaway", "list", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922222385, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922242010, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922268136, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922313564, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922400624, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922437254, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922529522, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922626720, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922648128, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922671935, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789922920974, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923095097, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923120611, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923232137, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923281290, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923484295, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923503627, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923599390, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923620954, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923756139, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923776037, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923848069, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789923869546, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924035710, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924050250, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924164346, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924180646, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924250250, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924595415, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924614172, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924743198, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924758958, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924790139, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924923806, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789924938687, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925004711, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925017292, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925084992, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925097800, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925268176, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925282939, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925557945, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925605398, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925655709, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925673835, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925722306, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925740659, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925781660, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925796937, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925853246, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789925866864, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926011193, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926026841, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926152386, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926165562, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926266620, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926279552, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926547095, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926583220, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926749251, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926763550, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926889892, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926901942, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926974217, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789926988599, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927042757, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927055995, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927102320, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927114444, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927370591, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927383541, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "table", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927440603, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927487615, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927606579, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927674527, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927830441, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927882203, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789927950431, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928012613, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928205062, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928271871, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928444099, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928500286, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928549982, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928622687, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928731952, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "table", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928846891, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789928908711, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929095522, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929116349, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929234131, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929460809, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "table", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929547452, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "heading", "takeaway", "takeaway", "takeaway", "explain", "heading", "explain", "takeaway", "takeaway", "explain", "heading", "explain", "takeaway", "list", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "heading", "takeaway", "explain", "takeaway", "explain", "heading", "explain", "explain", "explain", "table", "takeaway", "takeaway", "explain", "heading", "takeaway", "takeaway", "explain", "heading", "list", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929583887, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929831367, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929836602, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789929943996, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930073309, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930285315, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930395044, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930489331, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930602674, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain", "takeaway", "takeaway", "takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930762481, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930789076, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930825241, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930860014, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789930961413, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931051368, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931135501, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931349564, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931533715, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931618154, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931674130, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931754090, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789931943084, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789932018664, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789932086194, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789932398423, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789933585715, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789933671650, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789937945099, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789938228138, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789938778843, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789938823598, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["takeaway"], "bold_in_first": true, "session": "ses_f405c6a3dffe5eRB40a4if50hZ", "ms": 1789939046477, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923014048, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923025213, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "table", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "explain", "takeaway", "takeaway", "takeaway", "heading", "explain", "takeaway", "takeaway", "explain", "takeaway", "heading", "explain", "list", "takeaway", "heading", "list", "takeaway"], "bold_in_first": true, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923093356, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923183237, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923236643, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923247743, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f404663e6ffeHJ5gzlIdc2PEfN", "ms": 1789923312278, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789937756263, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789937762875, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "takeaway", "table", "explain", "list", "takeaway", "takeaway", "heading", "explain", "table", "takeaway", "takeaway", "table", "explain", "list", "takeaway", "takeaway", "heading", "takeaway", "list", "takeaway", "takeaway", "heading", "explain", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789937825496, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789937963549, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "heading", "explain", "takeaway", "explain", "list", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "explain", "explain", "list", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "heading", "explain", "list", "explain", "takeaway", "heading", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789937974458, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789938062926, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "takeaway", "takeaway", "list", "takeaway", "takeaway", "list", "explain", "takeaway", "heading", "explain", "list", "takeaway", "heading", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f65c592fferiIjSQhMERxcxD", "ms": 1789938071783, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939143903, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939151160, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "table", "takeaway", "heading", "takeaway", "explain", "list", "list", "explain", "fence", "heading", "takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939278913, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939408426, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939453740, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "takeaway", "takeaway", "table", "explain", "heading", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939461951, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain", "fence", "takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939545150, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939620026, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789939925822, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789942857437, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "list", "takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789942968661, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789943163560, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "fence", "explain"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789943355413, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789943367557, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789943387153, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789943583216, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789946714366, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "list", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789946796402, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789947019286, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "table", "takeaway", "list", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789947342922, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789947620728, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "fence", "explain", "explain", "explain", "explain", "explain", "explain", "fence"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789947654042, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789947739683, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "table", "explain", "heading", "takeaway", "explain", "list", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "explain", "fence", "explain", "heading", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789947978570, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "fence", "explain", "explain", "explain", "explain", "explain", "explain", "fence", "explain"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789948157354, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789948174264, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "table", "takeaway", "takeaway"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789950189917, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789950232836, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "table", "explain"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789950612014, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "takeaway", "list", "takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951061026, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "table", "explain", "takeaway", "list", "takeaway", "list", "explain"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951116244, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951227617, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951244150, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951304849, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951346994, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "table", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951815415, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789951835377, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789952262514, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789952343018, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "list", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789952764141, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789953040662, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789953108232, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789953311300, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789953515832, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789953743894, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789953949564, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789954161863, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789954377045, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789954413940, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789954615352, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789954655998, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f510cfcffeIs08oMcr1ZVUzH", "ms": 1789954693390, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789939925308, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789939945076, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940039269, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940116807, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940161852, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940401669, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940463882, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940527202, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "explain", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3f446eb6ffeIF17emBFSCD5ud", "ms": 1789940583137, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789954765287, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "takeaway", "takeaway", "table", "heading", "takeaway", "takeaway", "takeaway", "table", "takeaway", "takeaway", "heading", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789954797289, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789954891294, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789954934628, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789955255389, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789955958945, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "fence", "explain", "explain", "explain", "explain", "explain", "fence"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789955968697, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789956081644, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "heading", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "explain", "explain", "heading", "explain", "table", "explain", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789956121177, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "explain", "explain", "table", "explain"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789956487856, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789956585931, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789956688874, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "table", "takeaway", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789956840010, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957026180, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957113766, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "fence", "explain", "explain", "explain", "explain", "explain", "fence", "heading", "takeaway", "takeaway", "takeaway", "explain", "explain"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957121696, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957233242, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "explain", "explain", "table", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "list", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957248899, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957454841, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "heading", "takeaway", "explain", "heading", "explain", "table", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "explain", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957477582, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "explain", "takeaway", "heading", "explain", "takeaway", "table", "explain", "heading", "takeaway", "takeaway", "explain", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957521982, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "table", "takeaway", "heading", "explain", "list", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957600067, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957904490, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "heading", "explain", "list", "takeaway", "takeaway", "heading", "takeaway", "takeaway", "table", "takeaway", "takeaway", "heading", "takeaway", "list", "explain", "heading", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "table", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789957934946, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "heading", "explain", "list", "explain", "heading", "explain", "takeaway", "heading", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "takeaway", "takeaway", "table", "takeaway", "takeaway", "takeaway", "list", "takeaway", "heading", "takeaway", "explain", "takeaway", "heading", "explain", "heading", "fence", "fence", "table", "heading", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958034071, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958110019, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "table", "explain", "heading", "takeaway", "list", "explain", "heading", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958248221, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958460056, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958500252, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958579966, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "takeaway", "heading", "table", "explain", "heading", "explain", "takeaway", "heading", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789958792041, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789960623195, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "table", "takeaway", "heading", "takeaway", "list", "explain", "takeaway", "heading", "fence", "explain"], "bold_in_first": true, "session": "ses_f3e61ddc0ffeMtFuUYDola01dm", "ms": 1789960634995, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960663904, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960670208, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960675571, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960682897, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960690047, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960703624, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960733952, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960764621, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960787983, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960797983, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789960821051, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789961082281, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789961130871, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": true, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789961180434, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962019340, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "heading", "explain", "list", "takeaway", "takeaway", "explain", "heading", "takeaway", "takeaway", "table", "takeaway", "takeaway", "takeaway", "heading", "explain", "list", "takeaway", "list", "explain", "takeaway", "takeaway"], "bold_in_first": true, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962055323, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962106425, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962191835, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962201056, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "explain", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962228176, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962325051, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962361619, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "takeaway", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3e07cd0bffecbHM2RUXnN77jg", "ms": 1789962637137, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f3ae65009ffeaSnTfSVWUTdKLn", "ms": 1790013197133, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f3ae65009ffeaSnTfSVWUTdKLn", "ms": 1790013210901, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae65009ffeaSnTfSVWUTdKLn", "ms": 1790013243293, "side": "after"}
+{"grain": "mini", "open": "throat", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013393010, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013405737, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "leak", "explain", "explain", "table", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013412140, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013548436, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "takeaway", "explain", "table", "explain"], "bold_in_first": true, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013561709, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013608663, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain", "table", "explain", "explain"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013629338, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013703933, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013739296, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "explain", "summary", "takeaway", "explain"], "bold_in_first": true, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790013760065, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790029612159, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "heading", "explain", "heading", "explain", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "heading", "table", "explain", "explain"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790029643903, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790029755594, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790029794851, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790029826245, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030038293, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030291342, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030328490, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030388355, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030461195, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030521462, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030599314, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "takeaway", "takeaway", "takeaway", "takeaway", "explain", "takeaway"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030685385, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030721456, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030738128, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030748330, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030765277, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030811961, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030842176, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030850729, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030867002, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030879592, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030903314, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030927611, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030950698, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030975394, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790030998188, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031020473, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031043806, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031077039, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031099248, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031121291, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031155217, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031177498, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031203150, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031229766, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031269709, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031292179, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031315707, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031383619, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031406406, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031441508, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031464720, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031489415, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031512524, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031538986, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031563607, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031585890, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031608670, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031636401, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031661081, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031695642, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031720755, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031746213, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031786585, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031865610, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031906106, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031951672, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790031979633, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032005269, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032040699, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032064851, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032088266, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032112370, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "takeaway", "explain", "takeaway", "explain"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032145568, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032305684, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["takeaway", "explain", "summary", "explain", "table", "explain"], "bold_in_first": true, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032419354, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032620255, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["answer", "explain", "explain", "summary", "explain"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032661889, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032827353, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["leak"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032843729, "side": "after"}
+{"grain": "chunked", "open": "sentence", "chunks": ["leak", "leak", "summary", "explain", "takeaway"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790032982889, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790033119384, "side": "after"}
+{"grain": "mini", "open": "sentence", "chunks": ["answer"], "bold_in_first": false, "session": "ses_f3ae35107ffexUkty2xCP6GoXo", "ms": 1790033170637, "side": "after"}

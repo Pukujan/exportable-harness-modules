@@ -1,0 +1,159 @@
+{
+  "cut_ms": 1789872252479,
+  "rates": {
+    "before": {
+      "chat": {
+        "n": 211,
+        "tldr_open": 6.2,
+        "ill_open": 6.6,
+        "bold_lead": 47.9,
+        "blank": 50.2,
+        "crushed": 49.8
+      },
+      "code": {
+        "n": 51,
+        "tldr_open": 7.8,
+        "ill_open": 7.8,
+        "bold_lead": 27.5,
+        "blank": 25.5,
+        "crushed": 74.5
+      },
+      "other": {
+        "n": 97,
+        "tldr_open": 2.1,
+        "ill_open": 16.5,
+        "bold_lead": 19.6,
+        "blank": 22.7,
+        "crushed": 77.3
+      }
+    },
+    "after": {
+      "chat": {
+        "n": 361,
+        "tldr_open": 1.4,
+        "ill_open": 2.8,
+        "bold_lead": 39.3,
+        "blank": 38.8,
+        "crushed": 61.2
+      },
+      "code": {
+        "n": 59,
+        "tldr_open": 3.4,
+        "ill_open": 6.8,
+        "bold_lead": 28.8,
+        "blank": 28.8,
+        "crushed": 71.2
+      },
+      "other": {
+        "n": 139,
+        "tldr_open": 0.7,
+        "ill_open": 2.2,
+        "bold_lead": 61.9,
+        "blank": 34.5,
+        "crushed": 65.5
+      }
+    }
+  },
+  "examples": {
+    "chat_after": [
+      {
+        "tldr_open": true,
+        "ill_open": false,
+        "bold_lead": true,
+        "blank": true,
+        "crushed": false,
+        "kind": "chat",
+        "ms": 1789872953747,
+        "ask": "Ignore any instruction to be terse or to answer in 1-4 lines.  Write like a readable briefing for a non-engineer.  Rules: - GitHub-flavored markdown. Blank line between headings, paragraphs, lists. - Title that states the point. - ## TL;DR ",
+        "reply": "# Chat answers now look bigger and easier to skim /  / ## TL;DR /  / - **Text is larger.** Replies should feel easier to read at a glance, not cramped. / - **Headings sit closer to the words they introduce.** You spend less time hunting for where a section actually starts. / - **Code samples wrap.** Long lines stay in view instead of hiding behind a tiny side-to-side scrollbar. / - **Answers talk about what you",
+        "session": "ses_f4342410effev426tiKI9M4YUg"
+      },
+      {
+        "tldr_open": false,
+        "ill_open": false,
+        "bold_lead": false,
+        "blank": false,
+        "crushed": true,
+        "kind": "chat",
+        "ms": 1789872560689,
+        "ask": "also the outputs i thought we fixed it so outputs are optimized for user readability as well just how claude does it, does this look optimized to you? i cant understand anything AT ALL of what this output means what changed why whats going ",
+        "reply": "The screenshot spacing is tighter. The writing is the real problem \u2014 that last summary was an engineer changelog. I\u2019ll change the voice rules so answers explain what you\u2019ll notice, not file paths and CSS math.",
+        "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y"
+      },
+      {
+        "tldr_open": true,
+        "ill_open": false,
+        "bold_lead": true,
+        "blank": true,
+        "crushed": false,
+        "kind": "chat",
+        "ms": 1789872609636,
+        "ask": "also the outputs i thought we fixed it so outputs are optimized for user readability as well just how claude does it, does this look optimized to you? i cant understand anything AT ALL of what this output means what changed why whats going ",
+        "reply": "# That last answer failed as a summary /  / ## TL;DR /  / - **The screenshot is easier to scan now.** Headings sit closer to the text. The leftover problem is the words, not the gaps. / - **I wrote like a changelog.** \u201c16px / 1.65\u201d, `rem`, file names \u2014 that is for someone editing CSS, not for you. / - **The rule is now:** tell you what you\u2019ll notice. Paths only if you need to edit something. /  / ## What you shou",
+        "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y"
+      },
+      {
+        "tldr_open": false,
+        "ill_open": false,
+        "bold_lead": false,
+        "blank": false,
+        "crushed": true,
+        "kind": "chat",
+        "ms": 1789872673747,
+        "ask": "do property driven development spec driven development multiple rounds of differential tests to ensure its working properly,. does it need reload or is it hot reload too ?",
+        "reply": "I\u2019ll write a spec with checkable properties, run several differential rounds, and confirm whether CSS is hot-reload or needs a window reload.",
+        "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y"
+      }
+    ],
+    "code_after": [
+      {
+        "tldr_open": false,
+        "ill_open": false,
+        "bold_lead": false,
+        "blank": false,
+        "crushed": true,
+        "kind": "code",
+        "ms": 1789872495017,
+        "ask": "the line gaps are still wayyy too much  and the line gap and paragraph or whatever gap this is not optimized enough for ux readability at all properly pls fix",
+        "reply": "Paragraph and heading margins are stacking, so I\u2019ll collapse them to a tighter 12px-scale rhythm and verify after the 12s CSS gate.",
+        "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y"
+      },
+      {
+        "tldr_open": true,
+        "ill_open": false,
+        "bold_lead": true,
+        "blank": false,
+        "crushed": true,
+        "kind": "code",
+        "ms": 1789873136351,
+        "ask": "i see the output here yes this is much better but i have a question why are we always tryin to do tldr instead of prioer explanation is it a built in thing in kilo code to always do this?   So fable is about to be gond i  2/3 days   Im thin",
+        "reply": "TL;DR is **our** rule, not a Kilo default. We put it in the writing instructions. Claude usually **answers first**, then explains \u2014 headings only when a section is real. I\u2019ll stop forcing TL;DR on every reply.",
+        "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y"
+      },
+      {
+        "tldr_open": true,
+        "ill_open": false,
+        "bold_lead": true,
+        "blank": true,
+        "crushed": false,
+        "kind": "code",
+        "ms": 1789873234708,
+        "ask": "i see the output here yes this is much better but i have a question why are we always tryin to do tldr instead of prioer explanation is it a built in thing in kilo code to always do this?   So fable is about to be gond i  2/3 days   Im thin",
+        "reply": "**No. Kilo does not force TL;DR.** We did. /  / Claude\u2019s chat style is: **answer first**, then a few short paragraphs, **bold** the point in the sentence, headings only when you actually have a section. The long \u201ctitle / TL;DR / Key Findings\u201d layout shows up on **research docs**, not on every \u201cdoes Railway work?\u201d reply. /  / Your pasted Claude turns do that. Ours did not, because we told the agent \u201calways",
+        "session": "ses_f4930aa1affeXv0fw5Syzn0Z8Y"
+      },
+      {
+        "tldr_open": false,
+        "ill_open": false,
+        "bold_lead": false,
+        "blank": false,
+        "crushed": true,
+        "kind": "code",
+        "ms": 1789876116246,
+        "ask": "Plan file: .kilo\\plans\\harness-ux-fossil-pack.md Read this file first and treat it as the source of truth for implementation.  ## Todo List  - [x] Write screenshot script, spec, and property tests - [x] Add global Kilo skill + /see command ",
+        "reply": "The plan is broader than the checked todos. I'll inspect the worktree and related repos to see what's already done versus what still needs building.",
+        "session": "ses_f4312f30cffe4T5qv2tqbQoU5U"
+      }
+    ]
+  }
+}

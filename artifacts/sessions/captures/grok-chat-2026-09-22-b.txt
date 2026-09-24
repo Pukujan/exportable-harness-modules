@@ -1,0 +1,15 @@
+# Grok chat capture, bold in the first chunk
+
+Ask: Why are we always trying to do a TL;DR? Is that built into the product? Answer only. Do not edit files.
+
+Model: grok-4.7 (`grok-4.7-build` in the stream). `--output-format streaming-json`. Profile `adapters/grok/chat-profile.md`. Throwaway cwd. No tool call. `end_turn`. Session `01a0c6bf-f98c-7323-a1f4-72353e1a6f1d`.
+
+Reply:
+
+**Leading with the answer is written into this session: a why-question is answered in the first sentence, and that takeaway is set in bold.**
+
+That short opening is part of the prompt for this chat. The same instructions ask for a briefing in ordinary sentences, with a blank line between paragraphs, so the point stands on its own as soon as you start reading.
+
+Class against the frozen chat rules: chunked, open sentence, bold in the first chunk, no summary label in any reply chunk, no throat, no tools. Pass.
+
+The hidden thought stream named the label. That stream is not a reply chunk, so it is not scored as one.

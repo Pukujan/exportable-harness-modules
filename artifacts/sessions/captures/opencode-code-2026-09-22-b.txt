@@ -1,0 +1,13 @@
+# OpenCode code capture, no tools
+
+Ask: The paragraph gaps are too large. Say what you would change, in a short reply. Do not edit files.
+
+Model: yolo-auto/qwen3.8-flash. `--format json`. Directory `adapters/opencode/throwaway`. Session `ses_f39391603ffeHuFtp3KiP5PVf1`. `stop`. No tool call.
+
+The global OpenCode instruction file may still have loaded. It was not edited. This is not a clean pack-only proof.
+
+Reply:
+
+**Drop the forced blank line between every paragraph and use it only between distinct sections.** In a CLI, a blank line reads as a hard section break, so paragraph-level double spacing inflates every short answer. I'd change the rule in `adapters/opencode/throwaway/AGENTS.md` from "Blank line between paragraphs" to "single newline between paragraphs; blank line only between chunks," so prose stays tight and a blank line actually means something ended.
+
+Class against the frozen code rules: first sentence states the spacing change. Short. No summary heading. No tools. Pass. A path is named. That is not a code fail under the frozen rules.

@@ -1,0 +1,17 @@
+# OpenCode chat capture, label ban
+
+Ask: Why are we always trying to do a TL;DR? Is that built into the product? Answer only. Do not edit files.
+
+Model: yolo-auto/qwen3.8-flash. `--format json`. Directory `adapters/opencode/throwaway`. Session `ses_f393c4eb6ffe0kzp8WHShzxhYc`. `stop`. No tool call.
+
+The reply cites the global OpenCode instruction file and this repo's instruction file. The global file may have loaded. It was not edited.
+
+Reply:
+
+**It isn't a product feature — it's the instruction files and the base prompt forcing terseness.**
+
+The OpenCode system prompt itself mandates brevity: answer in under four lines, no preamble or postamble, one-word answers where possible. That's shipped with the product.
+
+Beyond that, your personal `~\.config\opencode\AGENTS.md` and this repo's `AGENTS.md` stack on top: they demand the takeaway first, a briefing format, no long dumps. So every model sitting in this harness inherits the same "lead with the point, stay short" bias, which reads like a TL;DR habit even though the literal instruction is the opposite — it actually bans that label.
+
+Class against the frozen chat rules: chunked, sentence open, bold in the first chunk, no throat, no tools. The third chunk contains the summary label. Miss.

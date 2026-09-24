@@ -2,12 +2,11 @@
 
 OpenCode’s TUI, `kilo run`, and any terminal agent can take two of the five preserved behaviors. They cannot take the webview ones.
 
-## Paste these
+## Paste this
 
-1. `modules/turn-routing/AGENTS.fragment.md`
-2. `modules/writing-contract/AGENTS.fragment.md`
+`adapters/tui/AGENTS.md` is both fragments in one file. Put that file in the agent instructions that are actually sent. A file that sits in this repo and is not loaded does not count.
 
-Put both in the agent instructions that are actually sent. A file that sits in a repo and is not loaded does not count.
+OpenCode: `adapters/opencode/README.md`. Grok Build CLI: `adapters/grok/README.md`. Neither may edit the live Kilo config. The global OpenCode instruction file already has its own chat-first rule, so a pass on this machine can be that file rather than this pack.
 
 ## Do not paste these
 

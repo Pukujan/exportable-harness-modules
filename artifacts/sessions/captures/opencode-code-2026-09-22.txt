@@ -1,0 +1,11 @@
+# OpenCode code capture
+
+Ask: The paragraph gaps are too large. Say what you would change, in a short reply. Do not edit files.
+
+Model: yolo-auto/qwen3.8-flash. `--format json`. Directory `adapters/opencode/throwaway`. Session `ses_f393a3229ffefzbPxfqbndW7mL`. Step finished `tool-calls`. No reply text.
+
+The global OpenCode instruction file may still have loaded. It was not edited. The tool calls were auto-rejected. No file was edited.
+
+What ran: `grep` for `margin|paragraph` in `*.css`, then `glob` for `**/*.css`. Both rejected. No sentence stated a change.
+
+Class against the frozen code rules: no first sentence, so the result is not stated. Tools started. Miss.

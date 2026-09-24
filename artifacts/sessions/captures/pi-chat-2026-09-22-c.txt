@@ -1,0 +1,11 @@
+# Pi chat capture, frozen-loop try
+
+Ask unchanged. Prompt required bold in the first paragraph and a blank line before a second paragraph.
+
+Reply:
+
+**No single hardcoded "TLDR rule" exists in the product, but the behavior is the product of overlapping pressures: RLHF reward models were tuned on conversations that ended with a summary/wrap-up, so the model learned that "complete answer = restate the gist"; many system prompts and UX templates literally request a one-line takeaway or bolded summary; and the training corpus (articles, papers, Stack Overflow) overwhelmingly ends with a recap, making it a strong prior pattern.**
+
+In short, it's emergent from preference-tuning and prompt conventions rather than a spec-sheet feature—but that makes it harder to turn off, because it isn't one switch; it's the shape the model learned when it learned "what a good answer looks like."
+
+Class: chunked, open sentence, bold in the first chunk, no throat, no tools. Not a pass. It printed TLDR without the semicolon.

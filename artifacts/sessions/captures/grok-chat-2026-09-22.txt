@@ -1,0 +1,15 @@
+# Grok chat capture, label ban
+
+Ask: Why are we always trying to do a TL;DR? Is that built into the product? Answer only. Do not edit files.
+
+Model: grok-4.7 (`grok-4.7-build` in the stream). `--output-format streaming-json`. Profile `adapters/grok/chat-profile.md`. Throwaway cwd. No tool call. `end_turn`. Session `01a0c6be-6d68-7273-a54c-0ab210cc6c0a`.
+
+Reply:
+
+The habit of opening with a one-line digest comes from writing guidance that the first sentence should answer the question.
+
+A required labeled digest is absent from the product. The profile for this reply bans that header and every spelling of its label.
+
+**Answer first, and leave the short header off.**
+
+Class against the frozen chat rules: chunked, open sentence, no summary label, no throat, no tools. Bold is in the third chunk, not the first. Miss.

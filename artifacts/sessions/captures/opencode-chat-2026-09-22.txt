@@ -1,0 +1,15 @@
+# OpenCode chat capture
+
+Ask: Why are we always trying to do a TL;DR? Is that built into the product? Answer only. Do not edit files.
+
+Model: yolo-auto/qwen3.8-flash. `--format json`. Directory `adapters/opencode/throwaway`. Session `ses_f393d4b14ffeomcODZ47U5QOCI`. `stop`. No tool call.
+
+The reply cites both the global `~/.config/opencode/AGENTS.md` and the throwaway file. The global file may have loaded. It was not edited.
+
+Reply:
+
+**No — TL;DR is not built into OpenCode.** Nothing in the product's system prompt asks for it; and your own instruction files actually say the opposite: both the global `~\.config\opencode\AGENTS.md` and this throwaway one explicitly forbid opening with a TL;DR.
+
+The habit comes from the model itself, not config. Frontier models are heavily tuned to front-load summaries, so under a "be concise" directive the trained prior drifts toward a summary opener even when the loaded instructions ban that exact opener. The instruction is winning on wording (I won't open with "TL;DR") but the underlying summarize-first instinct is what keeps resurfacing it in spirit.
+
+Class against the frozen chat rules: chunked, bold in the first chunk, no throat, no tools. Both chunks contain the summary label, so the open is a summary, not a sentence. Miss.

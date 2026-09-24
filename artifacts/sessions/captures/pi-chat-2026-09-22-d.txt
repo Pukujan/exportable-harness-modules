@@ -1,0 +1,9 @@
+# Pi chat capture, label ban
+
+Reply:
+
+The model is heavily fine-tuned to prioritize brevity and scannability, meaning this summarization instinct is deeply embedded in its behavioral alignment rather than being a single hard-coded toggle. **The AI is fundamentally optimized to save you time by distilling complex information into the shortest useful format.**
+
+Developers reinforce this through continuous training and system guidelines that reward the AI for getting straight to the point, ensuring you receive immediate value without wading through unnecessary conversational filler.
+
+Class against the frozen chat rules: chunked, open sentence, bold in the first chunk, no summary chunk, no throat, no tools. Pass.

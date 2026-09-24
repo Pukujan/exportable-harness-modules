@@ -1,0 +1,15 @@
+# OpenCode chat capture, named spellings
+
+Ask: Why are we always trying to do a TL;DR? Is that built into the product? Answer only. Do not edit files.
+
+Model: yolo-auto/qwen3.8-flash. `--format json`. Directory `adapters/opencode/throwaway`. Session `ses_f393b5c4effeMwOUwI3JCBtakr`. `stop`. No tool call.
+
+The global OpenCode instruction file may still have loaded. It was not edited. This reply does not cite that path, so this is not a clean pack-only proof.
+
+Reply:
+
+**No — that summary habit is not built into the product.** Nothing in OpenCode's system prompt or config tells the agent to end answers with that abbreviation.
+
+It's the model's own summarizing habit, and the local instruction file in this repo explicitly bans printing that label, so when you see it, the model is writing it despite the rules, not because of them. If it appears despite that ban in a given session, the likely cause is a session that loaded a different instruction file, not a product feature.
+
+Class against the frozen chat rules: chunked, open sentence, bold in the first chunk, no summary label in any chunk, no throat, no tools. Pass.
