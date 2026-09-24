@@ -16,6 +16,10 @@ Answer the owner. Do not invent a next project.
 
 Do not start a long task without an explicit go. A question about where files are, or why another agent looked lost, is a question. Answer it.
 
+## Copy Kilo Codex mode
+
+If the user says to check this repo and copy its Kilo Codex mode, copy `adapters/kilo/codex.md` over the Codex agent file that session loads. Write both `~/.config/kilo/agent/codex.md` and `~/.kilo/agent/codex.md` when those folders exist. Do not edit `kilo.jsonc`. Do not edit the installed extension. Do not claim the stylesheet was applied.
+
 ## Install
 
 If the user says install, that is the go. Run `python install.py install` from this repo root. Do not pass the live-overwrite flag. Do not edit `~/.config/kilo`, `~/.grok`, `~/.config/opencode`, or `~/.pi/agent`.
