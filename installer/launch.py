@@ -50,7 +50,7 @@ def command(product: str, ask: str) -> list[str]:
         node = shutil.which("node") or "node"
         cli = Path(r"C:\Users\pujan\AppData\Local\nvm\v24.14.1\node_modules\@earendil-works\pi-coding-agent\dist\bundle\cli.js")
         prompt = (dest / "pi" / "SYSTEM.md").read_text(encoding="utf-8")
-        return [
+        argv = [
             node,
             str(cli),
             "-p",
@@ -62,11 +62,16 @@ def command(product: str, ask: str) -> list[str]:
             "qwen3.8-flash",
             "--system-prompt",
             prompt,
-            ask,
         ]
+        key = os.environ.get("QWEN_API_KEY", "")
+        if key:
+            argv.extend(["--api-key", key])
+        argv.append(ask)
+        return argv
     if product == "opencode":
+        opencode = shutil.which("opencode.cmd") or shutil.which("opencode") or "opencode"
         return [
-            "opencode",
+            opencode,
             "run",
             "--dir",
             str(dest / "opencode"),
