@@ -2,6 +2,7 @@
 [data-component="markdown"] {
   font-size: 16px;
   line-height: 1.5;
+  font-family: ui-sans-serif, system-ui, "Segoe UI", sans-serif;
   overflow-wrap: break-word;
   word-break: break-word;
 }
@@ -12,7 +13,7 @@
 }
 
 [data-component="markdown"] > * + * {
-  margin-top: 0.65em !important;
+  margin-top: 0.45em !important;
 }
 
 [data-component="markdown"] h1,
@@ -75,6 +76,7 @@
   padding: 0.12em 0.35em;
   border-radius: 0.3rem;
   border: 0.5px solid color-mix(in srgb, var(--text-strong) 18%, transparent);
+  background: color-mix(in srgb, var(--text-strong) 12%, transparent);
 }
 
 [data-component="markdown"] pre,
