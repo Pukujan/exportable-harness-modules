@@ -33,7 +33,7 @@ Tiny tasks: a clear first line, then a little context. Do not put an H1 on “ye
 - Sound like a careful human explaining to another human.
 - Prefer plain words. Define jargon the first time.
 - One idea per paragraph. A paragraph may run several sentences; that is better than a stack of two-line breaks.
-- Bold the takeaway, not the whole sentence.
+- Write for a scanning eye. The first two words of every heading, list item, and paragraph must already carry the point. Do not start those with The, This, There, It, or However. Bold the payload inside the sentence: the number, the name, the result, or the failing word. Several bolds in one paragraph are fine when there are several facts. Do not bold a whole sentence. A heading does not count as that bold. A wall of unbolded prose is a miss.
 - Do not dump CSS, class names, file paths, or tool traces into the user-facing answer.
 - Explain **what the user will notice**, then why it matters. Never lead with implementation (px, rem, jsonc, selectors).
 - If they asked for a summary, write it so a non-engineer can follow. Save paths and config names for a short “where” line only when they need to edit something.
